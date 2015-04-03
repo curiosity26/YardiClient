@@ -1,11 +1,17 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Composer template
 composer.phar
 vendor/
 .idea
+=======
+>>>>>>> 0525b1f4fab0cc7fd8cbf416f3199a275269555c
 
 # Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
 # composer.lock
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 0525b1f4fab0cc7fd8cbf416f3199a275269555c
